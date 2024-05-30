@@ -4,6 +4,8 @@
 
 Polymorph Games offers a diverse collection of interactive Android games, with the backend infrastructure playing a pivotal role in user management, game data storage, and serverless function execution for a seamless gaming experience.
 
+Android application code (Java+Kotlin) available upon request.
+
 ## Purpose
 
 The purpose of the backend is to provide essential services such as secure user authentication, real-time data storage for profiles, game scores, and ratings, ensuring a robust and scalable infrastructure to support the Polymorph Games ecosystem.
